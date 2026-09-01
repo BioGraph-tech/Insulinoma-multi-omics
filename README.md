@@ -25,7 +25,6 @@ Processed data objects (hg38).
 | File | Description | Used for |
 |---|---|---|
 | `insulinoma_scRNA_annotated.h5ad` | QC-passed, annotated scRNA-seq object of 5 insulinoma samples (59,595 cells) | Fig. 1b–e |
-| `insulinoma_scRNA_inferCNV.h5ad` | scRNA-seq object with transcriptome-inferred CNV profiles and CNV scores | Fig. 1d, Fig. S2a,b |
 | `beta_normal_insulinoma_integrated_scored.h5ad` | Integrated HPAP normal beta cells + insulinoma endocrine cells (Harmony), with AUCell program scores (secretory-granule, neuroendocrine/synapse, translation/ribosome, DNA repair) | Fig. 2, Fig. 3, Fig. S4 |
 
 ### Data/scATAC/
