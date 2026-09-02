@@ -56,7 +56,6 @@ igraph.
 | `03_scRNA_inferCNV.ipynb` | Transcriptome-inferred CNV (infercnvpy) |
 | `04_scRNA_integrate_HPAP_normal.ipynb` | Integration with HPAP normal islet scRNA-seq; beta-cell subset |
 | `05_scRNA_gene_program_scoring_AUCell.ipynb` | AUCell gene-program scoring |
-| `05b_scRNA_cNMF_optional.ipynb` | cNMF program analysis (auxiliary) |
 | `06_scATAC_get_normal_islet_data.ipynb` | Download/prepare public normal islet scATAC-seq (GSE169453) |
 | `07_scATAC_QC_dimred_annotation.ipynb` | scATAC-seq QC (SnapATAC2), spectral embedding, annotation |
 | `08_scATAC_integrate_normal_peak_calling.ipynb` | ATAC integration, MACS3 peak calling, consensus peak matrix |
